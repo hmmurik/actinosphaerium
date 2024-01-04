@@ -1,0 +1,25 @@
+{
+    "name": "Adam Cisneros",
+    "age": 108,
+    "address": {
+        "street": "Alexandra Route",
+        "city": "Martinezborough",
+        "state": "Rhode Island",
+        "zip": "34204"
+    },
+    "contact": {
+        "phone": "(418)809-3329",
+        "servicePhone": "800588396"
+    },
+    "birthday": "1917-20-11",
+    "ip": "181.137.139.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Nation yard lot near measure person great. Painting voice such without product least. Collection include such government.\nCourt may art public.",
+        "bio": "Say special speak important wide forward. Short ahead southern really. Care know training live.\nHold head west know. Live modern age else concern during. Everyone great ready next over west."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
