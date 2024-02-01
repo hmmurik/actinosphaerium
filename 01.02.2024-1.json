@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Lee",
+    "age": 75,
+    "address": {
+        "street": "Young Rapid",
+        "city": "Jacksonport",
+        "state": "Colorado",
+        "zip": "45045"
+    },
+    "contact": {
+        "phone": "7138496820",
+        "servicePhone": "800054872"
+    },
+    "birthday": "1950-16-06",
+    "ip": "33.45.250.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Left politics behavior traditional. Activity our specific little.\nFact manager common per crime stand cell memory. Rest find better probably. Decade where than maybe identify including majority.",
+        "bio": "Allow and summer power seven. Seem mean admit seek bring difficult country. Our century senior enter.\nPerhaps training alone offer. Participant before Democrat turn well just."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
