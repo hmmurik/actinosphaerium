@@ -1,0 +1,25 @@
+{
+    "name": "Jerry Tanner",
+    "age": 35,
+    "address": {
+        "street": "Anne Viaduct",
+        "city": "Millerton",
+        "state": "Wyoming",
+        "zip": "89287"
+    },
+    "contact": {
+        "phone": "+1-857-563-9705x43513",
+        "servicePhone": "800875641"
+    },
+    "birthday": "1990-24-04",
+    "ip": "164.11.202.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Detail simple official land name. Simple time environmental talk list. Growth offer interest on itself.\nSoldier let goal southern someone alone. Our subject season wait.",
+        "bio": "Call grow rise surface home unit. Health road popular. Real issue rest national him speech. Occur hour modern allow."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
