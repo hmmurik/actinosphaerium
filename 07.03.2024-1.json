@@ -1,0 +1,25 @@
+{
+    "name": "Jillian Torres",
+    "age": 86,
+    "address": {
+        "street": "Gail Mountains",
+        "city": "Lake Taylor",
+        "state": "Tennessee",
+        "zip": "63245"
+    },
+    "contact": {
+        "phone": "961-564-0681",
+        "servicePhone": "800306295"
+    },
+    "birthday": "1939-26-01",
+    "ip": "159.5.198.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Help address artist everything pay camera add. Call whole for.\nSay back force traditional himself. Can him deep window. Blue event clear win on.",
+        "bio": "Kid military member. Statement director television young truth prevent arm. Drive game miss campaign quality include music. Various inside action police."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
