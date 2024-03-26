@@ -1,0 +1,25 @@
+{
+    "name": "Joanne Reyes",
+    "age": 57,
+    "address": {
+        "street": "Paul Road",
+        "city": "Youngberg",
+        "state": "Vermont",
+        "zip": "38506"
+    },
+    "contact": {
+        "phone": "9725861275",
+        "servicePhone": "800187390"
+    },
+    "birthday": "1968-26-07",
+    "ip": "24.226.223.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Whole series box answer note. No know president in rich others already. Reflect will ago writer.\nInterest follow day be travel boy. Stuff see nature image. Mean adult land tend feeling the during.",
+        "bio": "Face night provide never sort since nice. Store win indicate.\nAgreement mouth friend area heavy. Almost information teach policy attorney. Side stock event bar positive do."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
