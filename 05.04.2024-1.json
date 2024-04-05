@@ -1,0 +1,25 @@
+{
+    "name": "Anna Jones",
+    "age": 49,
+    "address": {
+        "street": "Keith Glen",
+        "city": "North James",
+        "state": "West Virginia",
+        "zip": "72159"
+    },
+    "contact": {
+        "phone": "001-333-424-5662x3777",
+        "servicePhone": "800542440"
+    },
+    "birthday": "1976-21-08",
+    "ip": "6.21.118.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Air data power wonder institution least girl agreement. Too candidate page peace.",
+        "bio": "Go paper smile resource very effort police. Director friend accept report perform. Spend tree guy born quickly.\nBest choose imagine attention wall without would. Own place shoulder kind girl."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
