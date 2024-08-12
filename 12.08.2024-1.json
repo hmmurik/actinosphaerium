@@ -1,0 +1,25 @@
+{
+    "name": "Kirsten Molina",
+    "age": 19,
+    "address": {
+        "street": "Thomas Lakes",
+        "city": "New Kimberlytown",
+        "state": "Virginia",
+        "zip": "71425"
+    },
+    "contact": {
+        "phone": "466.801.3995",
+        "servicePhone": "800406210"
+    },
+    "birthday": "2006-09-12",
+    "ip": "89.20.185.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Skill argue series activity. Same enter general authority fish. New rather force police staff section.\nMean ready while. None or manage family small region.",
+        "bio": "Get national political card difference. Take trip maybe drug manager or task.\nSea time create now discover. Answer audience most ok.\nPm step leave general. Responsibility day land still never."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
