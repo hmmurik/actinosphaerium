@@ -1,0 +1,25 @@
+{
+    "name": "Miguel Robinson",
+    "age": 104,
+    "address": {
+        "street": "Edwin Field",
+        "city": "Perezmouth",
+        "state": "Nevada",
+        "zip": "13659"
+    },
+    "contact": {
+        "phone": "476-262-4337",
+        "servicePhone": "800697146"
+    },
+    "birthday": "1921-15-04",
+    "ip": "159.206.104.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Tax discussion light parent. Cold writer minute social play minute cause. Race interesting than for police.\nMind pressure most cup but. Artist century property.",
+        "bio": "Notice national once thought. Develop indicate argue forget figure something worry.\nVoice institution mean room party."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
