@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Pitts",
+    "age": 12,
+    "address": {
+        "street": "Berg Radial",
+        "city": "East Jenniferburgh",
+        "state": "Tennessee",
+        "zip": "81134"
+    },
+    "contact": {
+        "phone": "(656)721-0902",
+        "servicePhone": "800433084"
+    },
+    "birthday": "2013-04-09",
+    "ip": "193.140.90.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Sport million go free entire watch. Fall its hit sort physical what. Discussion street rule fear color carry.\nBoth ask huge safe. Difficult song should soon institution guess key.",
+        "bio": "Speech bed then commercial picture water everyone.\nMarriage away only pick free run together. Today event phone matter itself. Available range suggest stop where ability national."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
