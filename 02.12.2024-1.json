@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Wolf",
+    "age": 4,
+    "address": {
+        "street": "Laurie Road",
+        "city": "Butlerton",
+        "state": "Virginia",
+        "zip": "69508"
+    },
+    "contact": {
+        "phone": "768.633.8374x46884",
+        "servicePhone": "800466543"
+    },
+    "birthday": "2021-26-04",
+    "ip": "211.145.57.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Over movie man must say rich big source. Such head time collection seat bit goal.\nAgo season seat job happen message. Now arrive begin fill. Think who sell lot.",
+        "bio": "Think citizen we skin capital. No knowledge new image matter. Age reduce system leave pressure little blood. Pressure friend study factor keep."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
