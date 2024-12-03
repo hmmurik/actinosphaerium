@@ -1,0 +1,25 @@
+{
+    "name": "Bridget Barnes",
+    "age": 49,
+    "address": {
+        "street": "Davis Mill",
+        "city": "Sherrymouth",
+        "state": "Iowa",
+        "zip": "38000"
+    },
+    "contact": {
+        "phone": "001-501-621-3532x969",
+        "servicePhone": "800299159"
+    },
+    "birthday": "1976-16-02",
+    "ip": "222.228.171.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Southern individual personal stage choice best position wear. Once party actually.\nValue teacher simply newspaper. Blue meet over real eight three since her.",
+        "bio": "Let kitchen yeah. Or sometimes coach finish amount."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
