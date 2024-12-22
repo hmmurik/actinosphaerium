@@ -1,0 +1,25 @@
+{
+    "name": "Shelby Garrison",
+    "age": 68,
+    "address": {
+        "street": "Mindy Pass",
+        "city": "West Curtisburgh",
+        "state": "North Carolina",
+        "zip": "11375"
+    },
+    "contact": {
+        "phone": "391-791-3565",
+        "servicePhone": "800772345"
+    },
+    "birthday": "1957-20-06",
+    "ip": "205.170.173.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Mr all really can. Show serious pull seek exist five throughout.\nLine fund help fire.",
+        "bio": "Media page economy. Same sister trade realize give stand. Only lead build soon century.\nManage test help force hot. Current arrive crime thousand for manager TV. Room anyone set century during."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
