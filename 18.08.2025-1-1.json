@@ -1,0 +1,25 @@
+{
+    "name": "Alec Davis",
+    "age": 80,
+    "address": {
+        "street": "Alejandro Loaf",
+        "city": "West Gregorytown",
+        "state": "West Virginia",
+        "zip": "84926"
+    },
+    "contact": {
+        "phone": "001-228-610-6531x296",
+        "servicePhone": "800712023"
+    },
+    "birthday": "1945-23-09",
+    "ip": "147.173.34.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Right middle word every side floor help. First break fight strategy consider college. Majority budget as several someone.",
+        "bio": "Catch house account either. Point positive team since before threat.\nSister close run ago product. Themselves south coach call whom choose build. Like team home become even."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
