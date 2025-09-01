@@ -1,0 +1,25 @@
+{
+    "name": "Gary Henry",
+    "age": 86,
+    "address": {
+        "street": "Chung Lights",
+        "city": "North Haydenburgh",
+        "state": "Massachusetts",
+        "zip": "64820"
+    },
+    "contact": {
+        "phone": "903-699-7623x75447",
+        "servicePhone": "800769743"
+    },
+    "birthday": "1939-20-05",
+    "ip": "7.128.225.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Military discussion bar seem affect social mother. Answer head group.\nCold door personal person truth image first. He brother human bring. Find street few.",
+        "bio": "Coach trip whatever training.\nUnderstand risk direction star. Within student prepare difference personal imagine reality."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
