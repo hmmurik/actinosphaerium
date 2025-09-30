@@ -1,0 +1,25 @@
+{
+    "name": "David Castro",
+    "age": 107,
+    "address": {
+        "street": "Bradley Roads",
+        "city": "Lake Kim",
+        "state": "Utah",
+        "zip": "21589"
+    },
+    "contact": {
+        "phone": "+1-669-704-9201x9946",
+        "servicePhone": "800972017"
+    },
+    "birthday": "1918-27-03",
+    "ip": "140.54.148.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Big pick as. Here land hand member month international. Her these many kind morning discover say. Several happen significant professor quality.",
+        "bio": "Professional admit wish win. Participant clear long company least.\nSort pass type. He medical return forget either grow maybe.\nGrow thank eight involve hard."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}

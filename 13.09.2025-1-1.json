@@ -1,0 +1,25 @@
+{
+    "name": "Kaitlyn Palmer",
+    "age": 84,
+    "address": {
+        "street": "Davis Park",
+        "city": "Hodgesbury",
+        "state": "South Carolina",
+        "zip": "24179"
+    },
+    "contact": {
+        "phone": "(611)439-3338x6501",
+        "servicePhone": "800193916"
+    },
+    "birthday": "1941-02-09",
+    "ip": "81.166.242.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Experience you dream serious ready power. Your Democrat realize program.\nNext degree firm deal into return summer meet. Development rise thousand account technology according sort.",
+        "bio": "Cut agency property simple blood garden fund. These when choose within each page."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
