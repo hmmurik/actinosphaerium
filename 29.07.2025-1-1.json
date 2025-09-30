@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Anderson",
+    "age": 38,
+    "address": {
+        "street": "Sanchez Vista",
+        "city": "Michaelport",
+        "state": "Pennsylvania",
+        "zip": "69470"
+    },
+    "contact": {
+        "phone": "001-269-695-2929x00201",
+        "servicePhone": "800370003"
+    },
+    "birthday": "1987-02-09",
+    "ip": "216.197.147.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Short another skill executive team. Expect hold bag interview hope nature. Give simply option accept.\nI in field voice.",
+        "bio": "Four value smile decide. Impact others keep lot individual participant. Quickly available they impact decision foreign church head.\nYear fire view toward second against big."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
