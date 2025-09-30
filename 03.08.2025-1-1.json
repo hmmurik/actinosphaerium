@@ -1,0 +1,25 @@
+{
+    "name": "Manuel Kline",
+    "age": 96,
+    "address": {
+        "street": "Martinez Mountains",
+        "city": "East Nataliemouth",
+        "state": "Arizona",
+        "zip": "97430"
+    },
+    "contact": {
+        "phone": "985.414.2372x599",
+        "servicePhone": "800179078"
+    },
+    "birthday": "1929-16-03",
+    "ip": "122.71.34.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Contain though local dream care believe money. At article great conference. Behind some doctor management board education participant.",
+        "bio": "Pay help lose single read report every must. Game sign onto there stock form cup.\nHeavy company newspaper then month central. Class these whether production who speech."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
