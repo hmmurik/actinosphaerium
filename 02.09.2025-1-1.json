@@ -1,0 +1,25 @@
+{
+    "name": "Cindy Diaz",
+    "age": 10,
+    "address": {
+        "street": "Stevenson Glens",
+        "city": "Charlesport",
+        "state": "New Jersey",
+        "zip": "80318"
+    },
+    "contact": {
+        "phone": "(390)429-0814x51984",
+        "servicePhone": "800989670"
+    },
+    "birthday": "2015-17-01",
+    "ip": "96.176.137.243",
+    "foo": "bar",
+    "profile": {
+        "about": "From blood network cause. Happen I art produce somebody than agreement.\nQuickly country join ready without future. Image win help everything gun marriage. Ground care source go voice scene real.",
+        "bio": "Mind others consider man mean eight.\nOfficer part source first break plant tough front. Develop significant city information."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
