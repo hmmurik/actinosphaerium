@@ -1,0 +1,25 @@
+{
+    "name": "Corey Miller",
+    "age": 57,
+    "address": {
+        "street": "Padilla Underpass",
+        "city": "Lake Andrew",
+        "state": "New York",
+        "zip": "08634"
+    },
+    "contact": {
+        "phone": "538-494-4900x983",
+        "servicePhone": "800788510"
+    },
+    "birthday": "1968-27-02",
+    "ip": "44.198.122.145",
+    "foo": "bar",
+    "profile": {
+        "about": "They local size travel least control. Option enter station marriage color. Would bar reason drug pattern.\nMoment indicate century any truth. Day watch instead then nearly.",
+        "bio": "House later large herself event second.\nOwn computer outside check he stock sometimes. Billion seat home usually position dog family life.\nSon understand deep. Chair politics walk along."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
