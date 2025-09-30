@@ -1,0 +1,25 @@
+{
+    "name": "Tina Blackburn",
+    "age": 45,
+    "address": {
+        "street": "Sabrina Views",
+        "city": "West Jonathantown",
+        "state": "Kentucky",
+        "zip": "18276"
+    },
+    "contact": {
+        "phone": "+1-839-327-6201x201",
+        "servicePhone": "800575051"
+    },
+    "birthday": "1980-29-07",
+    "ip": "99.89.81.236",
+    "foo": "bar",
+    "profile": {
+        "about": "School thing TV ability hand record evidence. Social system through could. Offer site something out project hold.",
+        "bio": "Political win interest very. Audience relate theory provide find they growth. Meeting mother medical before democratic.\nMillion once early."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
